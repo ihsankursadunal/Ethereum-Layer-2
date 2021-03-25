@@ -1,23 +1,3 @@
-<style>
-green{
-    color: #50d62f;
-}
-alt-top{
-    color: #fc1685;
-}
-paragraph{
-    margin-left:40px;
-}
-bl{
-    color: #19b9ea;
-}
-bl-alt{
-    color: #158fb5;
-}
-red{
-    color:red;
-}
-</style>
 # <center>Ethereum Layer 2<center>
 
 <details>
