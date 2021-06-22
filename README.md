@@ -1,2 +1,2 @@
 # Ethereum-Layer-2
-Document for studiying on Ethereum Layer 1
+Document for studiying on Ethereum Layer 2
